@@ -1,0 +1,280 @@
+div.head{
+    float: left;
+   text-align: left;
+   padding-top: 1cm;
+   margin-top: 0;
+   padding-left: 0cm;
+   font-family: 'Beyno', sans-serif;
+   font-size: 16px;
+   padding-bottom: 0;
+}
+body{
+    margin: auto;
+    cursor : url(ASSETS/Illustration\ +\ Logo/logo_souris_BP2_blanc.png)
+}
+
+.question{
+    font-family: 'beyno';
+    font-size: 16px;
+width: 6cm;
+}
+cursor :url()
+
+div.eni2{
+    
+    margin-right: 9cm;
+    z-index: 10;
+    position: absolute;
+    padding-top: 0cm;
+    border-top: 0cm;
+  
+            border-right: 5cm;
+    border-left: 0;
+}
+div.bizarre{
+    font-family: 'wakanda forever', sans-serif;
+    font-size: 200%;
+    margin-left: 2cm;
+    color: #9E91B7;
+}
+div.wakfo{
+    font-family:'wakanda Forever', sans-serif ;
+    text-align: left;
+    padding-right: 0;
+    padding-top: -1cm;
+}
+div.alf{
+font-size: 500%;
+}
+p{
+    font-family: 'cantarell';
+}
+div.al{
+    margin-left: 2cm;
+    font-size: 120%;
+    text-transform: bold;
+    margin-top: -0.5cm;
+}
+div.eni3{
+    margin-left: -4cm;
+    margin-right: 9cm;
+    position: absolute;
+    padding-top: 0;
+    border-top: 0;
+    margin-top: -3cm;
+    text-align: center;
+    float: top;
+    padding-left: 0cm;
+    padding-right: 5cm;
+    border-right: 5cm;
+    border-left: 0;
+    margin-bottom: 10cm;
+    padding-bottom: 10cm;
+    border-bottom: 10cm;
+}
+div.spec{
+    padding-top: 3.5cm;
+    z-index: 10;
+   background-position: right;
+    padding-right: -1cm;
+     height: 5cm;
+    padding-left: -12.5cm;
+    margin-left: -2.5cm;
+    margin-bottom: -7cm;
+    margin-top: -1cm;
+  
+}
+.titre{
+    padding-left: 3cm;
+
+}
+.inside{
+    padding-left: 15cm;
+    margin-left: 15cm;
+    padding-top: 10cm;
+}
+div.spec1{
+    padding-top: 7cm;
+    z-index: 10;
+   background-position: right;
+    padding-right: 0;
+     width: 14cm;
+    height: 5cm;
+    padding-left: -2cm;
+    margin-left: -2cm;
+    text-align: center;
+    margin-top: -5cm;
+    
+    }
+div.ima{
+    padding-right: 0;
+    padding-top: 3cm;
+    margin-left: -3cm;
+    padding-left: 0cm;
+    margin-right: 0cm;
+    text-align: left;
+}
+
+table{
+    padding-left: 0cm;
+    padding-right: 0cm;
+    text-align: justify;
+    width: 10cm;
+}
+
+body{
+    margin-left: 0;
+    padding-left: 1cm;
+    margin-right: 0;
+    padding-top: 0cm;
+    margin-top: 0;
+    background-color:rgba(29, 21, 48, 0.973);
+    font-family: 'cantarell';
+    font-size: 12px;
+   }
+td{
+    padding-left: 0cm;
+    padding-right: 0;
+}
+h3{
+    font-size: 60px;
+    width: 20cm;
+    padding-left: 0;
+    margin-left: -5cm;
+    text-align: left;
+    color: #9E91B7;
+}
+tr{
+    padding-left: 0cm;
+    padding-right: 0;
+}
+
+p{
+    text-align: justify center ; 
+     width: 7cm;
+
+    }
+    div.alpha{
+        text-align: left;
+           padding-top: 5cm;
+        padding-right: 0;
+        margin-right: 0;
+        margin-top: -5cm;
+        border-left: 0;
+        padding-left: 0;
+        margin-left: 2cm;
+        width: 18cm;
+        position: relative;
+        }
+div.last{
+    padding-top: 5cm;
+    font-family: 'cantarell';
+    font-size: small;
+    font-size: 12px;
+    margin-top: 0cm;
+    margin-left: 2cm;
+}
+div.apw{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: smaller;
+}
+p{
+    font-family: 'cantarell';
+    font-size: 14px;
+  
+}
+div.p5{
+    background-color:  transparent;
+    background-position: inherit;
+    background-clip: border-box black;
+    border-left: 0.5cm;
+    border-top: 0.5cm;
+    border-right: 0.5cm;
+    border-radius: 5%;
+    padding-left: 0.5cm;
+    padding-top: 0.2cm;
+    padding-right: 0.5cm;
+    padding-bottom: 0.2cm;
+    border: 3px solid #9E91B7 ;
+    margin-top: 0.5cm;
+    margin-left: 0cm;
+    margin-right: 0;
+    margin-bottom: 0.5cm;
+    border-radius: 25px;
+    font-size: 12px bold;
+    font-family: 'cantarell';
+    width: 12cm;
+    height: 5cm;
+    position: relative;
+    display: inline;
+    text-align: left;
+    color: #9E91B7;
+    }
+    div.p6{
+        background-color:  #9E91B7;
+        background-position:0%;
+        background-clip: border-box #9E91B7;
+        border-left: 0.5cm;
+        border-top: 0.5cm;
+        border-right: 0.5cm;
+        border-radius: 5%;
+        padding-left: 1.1cm;
+        padding-top: 0.2cm;
+        padding-right: 0.5cm;
+        padding-bottom: 0.2cm;
+        border: 1px solid #9E91B7 ;
+        margin-top: 0.5cm;
+        margin-left: 4cm;
+        margin-right: 2cm;
+        margin-bottom: 0.5cm;
+        border-radius: 25px;
+        font-size: small;
+        font-family: 'cantarell';
+        width: 3cm;
+        height: 5cm;
+        position: relative;
+        display: inline;
+        text-align: center;
+        color:#021740 ;
+    
+        }
+footer{
+    margin-top: 4cm;
+    padding-left: 5cm;
+    margin-left: -5cm;
+    background-color: rgb(33, 33, 58);
+    height: 20cm;
+    font-family: 'cantarell';
+}
+div.foot{
+    position: absolute;
+    padding-top: 0;
+    margin-top: 0;
+    float: top;
+    margin-left: 0;
+    margin-bottom: 0;
+}
+div.footp{
+    text-align: center;
+    padding-left: 12cm;
+    padding-top: 5cm;
+    font-size: large;
+   }
+   div.nous{
+    text-align: center;
+    padding-left: 5cm;
+    padding-top: 5cm;
+    width: 15cm;
+      }
+div.foot1{
+    padding-top: 4cm;
+    padding-left: 2cm;
+    position: absolute;
+}
+div.pfoot{
+    padding-top: 0cm;
+    text-align: center;
+    padding-left: 3cm;
+    font-size: small;
+    
+}
